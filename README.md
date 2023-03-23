@@ -28,5 +28,6 @@ A vector is an array of numbers. The numbers are arranged in order.we write them
 An array of numbers arranged on a regular grid with a variable number of axes is known as a tensor.an array with more than two axes.
 </details>
 
+[Code](https://github.com/pritomsh/linear-algebra/blob/master/linear_algebra.ipynb)
 
 :copyright: Pritom Saha
