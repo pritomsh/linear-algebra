@@ -1,5 +1,5 @@
 <div style=" color:#721C24; padding:20px; border-radius:10px; text-align:center;">
-    <h3 style="font-weight:bold; margin-top:0; font: 30px Arial;">𝙻𝚒𝚗𝚎𝚊𝚛 𝙰𝚕𝚐𝚎𝚋𝚛𝚊  :robot:
+    <h3 style="font-weight:bold; margin-top:0; font: 30px Arial;">:pencil: 𝙻𝚒𝚗𝚎𝚊𝚛 𝙰𝚕𝚐𝚎𝚋𝚛𝚊 
 </h3>
 </div>
 <br>
@@ -29,3 +29,4 @@ An array of numbers arranged on a regular grid with a variable number of axes is
 </details>
 
 
+:copyright: Pritom Saha
