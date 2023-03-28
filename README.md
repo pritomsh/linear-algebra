@@ -28,6 +28,9 @@ A vector is an array of numbers. The numbers are arranged in order.we write them
 An array of numbers arranged on a regular grid with a variable number of axes is known as a tensor.an array with more than two axes.
 </details>
 
+<summary>Matrix Indexing</summary>
+
+
 # Multiplying Matrices
 Condider 2 matriecs M1 and M2. For matriecs multiply M1 must have the same number of columns as M2 has rows. If M1 is of shape a × b and M2 is of shape b × c, then M is of shape a × c.
 
